@@ -49,7 +49,7 @@ class _DatabaseSampleState extends State<_DatabaseSample> {
           Padding(
             padding: const EdgeInsets.symmetric(vertical: 20),
             child:
-                ElevatedButton(onPressed: addPressed, child: const Text('Add')),
+                ElevatedButton(onPressed: addPressed, child: const Text('Adds')),
           ),
           const Padding(
             padding: EdgeInsets.only(bottom: 10),
